@@ -1,0 +1,125 @@
+header {
+    height: 150px;
+    background-color: #4A546D;
+    margin-bottom: 50px;
+}
+
+.header-inhoud h1 {
+    color: #ffffff;
+    padding: 0px 0px 0px 20px;
+}
+
+.header-inhoud {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-between;
+    height: 100%;
+    padding: 0px;
+}
+
+td {
+  padding: 50px;
+}
+
+#cell1 {
+    background-color: #2B193D;
+}
+
+#cell2 {
+    background-color: #472965;
+}
+
+#cell3 {
+    background-color: #5C3582;
+}
+
+#cell4 {
+    background-color: #70419F;
+}
+
+#cell5 {
+    background-color: #E55934;
+}
+
+#cell6 {
+    background-color: #EA7B5D;
+}
+
+#cell7 {
+    background-color: #EF9881;
+}
+
+#cell8 {
+    background-color: #F3B6A5;
+}
+
+#cell9 {
+    background-color: #E3B505;
+}
+
+#cell10 {
+    background-color: #FBCF23;
+}
+
+#cell11 {
+    background-color: #FBD84B;
+}
+
+#cell12 {
+    background-color: #FCE173;
+}
+
+#cell13 {
+    background-color: #4DAA57;
+}
+
+#cell14 {
+    background-color: #64B96D;
+}
+
+#cell15 {
+    background-color: #80C687;
+}
+
+#cell16 {
+    background-color: #9CD3A2;
+}
+
+#word1 {
+  background-color: #DADCE7;
+}
+
+#word2 {
+  background-color: #C1C5D7;
+}
+
+#word3 {
+  background-color: #C3BF6D;
+}
+
+#word4 {
+  background-color: #B8B351;
+}
+
+#word5 {
+  background-color: #9E0570;
+}
+
+#word6 {
+  background-color: #F94DC6;
+}
+
+#word7 {
+  background-color: #4C6B62;
+}
+
+#word8 {
+  background-color: #668F83;
+}
+
+.footer-content {
+  background-color: #999999;
+  height: 150px;
+  margin-top: 50px;
+}
